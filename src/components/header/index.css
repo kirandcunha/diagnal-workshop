@@ -4,6 +4,7 @@
   width: 100%;
   background: url("../../assets/nav_bar.png");
   z-index: 1;
+  background-size: cover;
 }
 
 .back-button {
