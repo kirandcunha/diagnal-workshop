@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/diagnal-workshop/static/css/main.4cd33b4e.chunk.css",
-    "main.js": "/diagnal-workshop/static/js/main.8c1d1053.chunk.js",
-    "main.js.map": "/diagnal-workshop/static/js/main.8c1d1053.chunk.js.map",
+    "main.css": "/diagnal-workshop/static/css/main.863d9599.chunk.css",
+    "main.js": "/diagnal-workshop/static/js/main.8ef7b509.chunk.js",
+    "main.js.map": "/diagnal-workshop/static/js/main.8ef7b509.chunk.js.map",
     "runtime-main.js": "/diagnal-workshop/static/js/runtime-main.4fdb6e91.js",
     "runtime-main.js.map": "/diagnal-workshop/static/js/runtime-main.4fdb6e91.js.map",
-    "static/js/2.104357d2.chunk.js": "/diagnal-workshop/static/js/2.104357d2.chunk.js",
-    "static/js/2.104357d2.chunk.js.map": "/diagnal-workshop/static/js/2.104357d2.chunk.js.map",
+    "static/js/2.c93b709f.chunk.js": "/diagnal-workshop/static/js/2.c93b709f.chunk.js",
+    "static/js/2.c93b709f.chunk.js.map": "/diagnal-workshop/static/js/2.c93b709f.chunk.js.map",
     "index.html": "/diagnal-workshop/index.html",
-    "static/css/main.4cd33b4e.chunk.css.map": "/diagnal-workshop/static/css/main.4cd33b4e.chunk.css.map",
-    "static/js/2.104357d2.chunk.js.LICENSE.txt": "/diagnal-workshop/static/js/2.104357d2.chunk.js.LICENSE.txt"
+    "static/css/main.863d9599.chunk.css.map": "/diagnal-workshop/static/css/main.863d9599.chunk.css.map",
+    "static/js/2.c93b709f.chunk.js.LICENSE.txt": "/diagnal-workshop/static/js/2.c93b709f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4fdb6e91.js",
-    "static/js/2.104357d2.chunk.js",
-    "static/css/main.4cd33b4e.chunk.css",
-    "static/js/main.8c1d1053.chunk.js"
+    "static/js/2.c93b709f.chunk.js",
+    "static/css/main.863d9599.chunk.css",
+    "static/js/main.8ef7b509.chunk.js"
   ]
 }
