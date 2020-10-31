@@ -1,5 +1,4 @@
 import React from "react";
-import LinesEllipsis from "react-lines-ellipsis";
 import {SERVER_URL} from "../../utils/constants";
 import defaultImage from "../../assets/placeholder_for_missing_posters.png";
 import "./index.css";
@@ -21,14 +20,7 @@ class Card extends React.Component {
           className="poster"
           alt="poster"
         />
-        <LinesEllipsis
-        className="name"
-          text={this.props.poster["name"]}
-          maxLine="2"
-          ellipsis="..."
-          trimRight
-          basedOn="letters"
-        />
+        <div className="name">{this.props.poster["name"]}</div>
       </div>
     );
   }
