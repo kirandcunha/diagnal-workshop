@@ -6,3 +6,10 @@
   height: 96%;
   overflow: scroll;
 }
+
+.no-data {
+  position: absolute;
+  text-align: center;
+  top: 10vh;
+  width: 100%;
+}

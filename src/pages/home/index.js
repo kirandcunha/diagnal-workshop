@@ -24,14 +24,12 @@ class Home extends React.Component {
   }
 
   onSearch(text) {
-    console.log("onSearch ", text)
     this.setState({
       searchText: text
     });
   }
 
   onBackClick() {
-    console.log("onBackClick")
     this.setState({
       searchText: ""
     });

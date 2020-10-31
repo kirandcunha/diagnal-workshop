@@ -15,3 +15,13 @@ App supports lazy loading. Threshold to load next data is configurable from cons
 
 2. Local search<br />
 App supports local search. Clicking anywhere outside during search hides the search bar.
+
+## Corner cases taken care
+
+1. If poster does not load, placeholder image is loaded
+2. Extra large text is clamped to two lines
+
+## Configurability
+
+1. Server URL is configured in constants. This can be changes based on server location.
+2. Paging URL format is configured in constants

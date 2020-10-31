@@ -34,6 +34,9 @@ class Grid extends React.Component {
           this.props.posters.map((item, i) => {
             return <Card key={i} poster={item} />;
           })}
+        {(!this.props.posters || this.props.posters.length === 0) && (
+          <div className="no-data">No Data</div>
+        )}
       </div>
     );
   }
