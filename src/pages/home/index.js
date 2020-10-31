@@ -59,7 +59,7 @@ class Home extends React.Component {
   render() {
     const filteredData = this.props.data
       ? this.props.data.filter(item =>
-          item.name.toLowerCase().includes(this.state.searchText)
+          item.name.toLowerCase().includes(this.state.searchText.toLowerCase().trim())
         )
       : [];
     return (
