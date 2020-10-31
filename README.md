@@ -10,8 +10,8 @@ src |<br />
 
 ## Features
 
-1. Lazy loading
+1. Lazy loading<br />
 App supports lazy loading. Threshold to load next data is configurable from constants.js with the help of integer value LAZY_LOAD_THRESHOLD. It describes how many pages should be below the current scroll for the next set of data to load.
 
-2. Local search
+2. Local search<br />
 App supports local search. Clicking anywhere outside during search hides the search bar.
